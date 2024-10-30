@@ -40,3 +40,4 @@
 ![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg)
 ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
 ![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
